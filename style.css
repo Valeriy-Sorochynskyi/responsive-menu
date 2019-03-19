@@ -67,9 +67,7 @@ body {
     .menu-container {
       position: relative;
       background-color:  whitesmoke;
-      /* box-shadow: 0 3px 4px 0 rgba(0, 0, 0, 0.16); */
       width: 188px;
-      /* z-index: 3; */
     }
 
     .menu-list {
